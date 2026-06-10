@@ -1,4 +1,4 @@
-﻿Type,PlayerID,PlayerID_Override,Order,Rosterable,DOB,Range$,Target,Team,Pos,Prj$,Player,Drafted,MyRank,YahRnk,ESPNRnk,Other,TierID,MyLeague$,Yah$,YAvg$,YDelta$,ESPN$,Actual$,Manager,Paid$,Delta$,Surplus,Budget%,PrjPts/Gm,GamesPlayed,EOS_Total,EOS_Avg,EOS_Avg_Delta,EOS_Surplus,Year,Age,Bye,Notes
+Type,PlayerID,PlayerID_Override,Order,Rosterable,DOB,Range$,Target,Team,Pos,Prj$,Player,Drafted,MyRank,YahRnk,ESPNRnk,Other,TierID,MyLeague$,Yah$,YAvg$,YDelta$,ESPN$,Actual$,Manager,Paid$,Delta$,Surplus,Budget%,PrjPts/Gm,GamesPlayed,EOS_Total,EOS_Avg,EOS_Avg_Delta,EOS_Surplus,Year,Age,Bye,Notes
 Player,00-0038542,,1,Yes,37286,$60+,,ATL,RB,62,Bijan Robinson,,1,1,1,,R01,71.1,62,71.1,9.1,67,,,,,,,19.47,16,360.5,22.53125,,,4,24,11,
 Player,00-0036900,,2,Yes,36586,$60+,,CIN,WR,61,Ja'Marr Chase,,2,2,4,,W01,67.5,61,67.5,6.5,65,,,,,,,19.55,15,289,19.26666667,,,6,26,6,
 Player,00-0039139,,3,Yes,37335,$60+,,DET,RB,60,Jahmyr Gibbs,,3,3,2,,R02,70.7,60,70.7,10.7,66,,,,,,,19.51,16,345.6,21.6,,,4,24,6,
