@@ -1,4 +1,4 @@
-﻿Type,PlayerID,PlayerID_Override,Order,Rosterable,DOB,Range$,Target,Team,Pos,Prj$,Player,Drafted,GXL,YahRnk,ESPNRnk,TierID,GXL$,Yah$,YAvg$,YDelta$,ESPN$,Actual$,Manager,Paid$,Delta$,Surplus,Budget%,Prj PPG,Prj PPS,Replacement,VOR,FMV,FMV Δ,GamesPlayed,EOS_Total,EOS_Avg,EOS_Avg_Delta,EOS_Surplus,Year,Age,Bye,Notes
+﻿Type,PlayerID,PlayerID_Override,Order,Rosterable,DOB,Range$,Target,Team,Pos,Prj$,Player,Drafted,GXLRnk,YahRnk,ESPNRnk,TierID,GXL$,Yah$,YAAP$,Yah Δ,ESPN$,Actual$,Manager,Paid$,Delta$,Surplus,Budget%,Prj PPG,Prj PPS,Replacement,VOR,FMV,FMV Δ,GamesPlayed,EOS_Total,EOS_Avg,EOS_Avg Δ,EOS_Surplus,Year,Age,Bye,Notes
 Player,00-0039139,,1,Yes,37335,$60+,Yes,DET,RB,62,Jahmyr Gibbs,,1,1,1,R01,70,62,71.1,9.1,57,,,,,,,19.41470588,330.05,102.29,227.76,67.04075864,5.040758644,16,345.6,21.6,,,4,24,6,
 Player,00-0038542,,2,Yes,37286,$60+,,ATL,RB,61,Bijan Robinson,,2,2,2,R02,70,61,71.1,10.1,56,,,,,,,19.23,326.91,102.29,224.62,66.13029156,5.130291564,16,360.5,22.53125,,,4,24,11,
 Player,00-0036900,,3,Yes,36586,$60+,,CIN,WR,60,Ja'Marr Chase,,3,3,4,W01,68,60,67.5,7.5,55,,,,,,,20.11117647,341.89,143.63,198.26,58.48700741,-1.512992585,15,289,19.26666667,,,6,26,6,
